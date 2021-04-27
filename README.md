@@ -61,7 +61,7 @@
   ![Machine Learning certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/3.jpeg?raw=true)
   
   #### Introduction to the Internet of Things and Embedded Systems from coursera.org
-  ![freecodecamp python certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/4.jpeg?raw=true)
+  ![IOT certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/4.jpeg?raw=true)
   
   #### Python For Everyone from coursera.org
   ![Python For Everyone certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/2.jpeg?raw=true)
