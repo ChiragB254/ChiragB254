@@ -27,17 +27,36 @@
 
 ### Skills
   
-  ![Python](https://img.shields.io/badge/-python-E34F26?style=flat-oval&logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![C](https://img.shields.io/badge/-C-000?&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+  ![Data Science](https://img.shields.io/badge/-Data%20Science-brightgreen)
   ![Machine Learning](https://img.shields.io/badge/-MachineLearning-blue?style=flat-oval&logo=machinelearning&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-html5-1572B6?style=flat-oval&logo=html5)
+  ![Java Basic](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-oval&logo=github&logoColor=white)
+  [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)]
+  [![Google Cloud](https://img.shields.io/badge/Learning-GCloud-FF9990?style=flat-square&logo=google-cloud&logoColor=white)]
   ![Colab](https://img.shields.io/badge/-Colab-43853d?style=flat-oval&logo=colab&logoColor=white)
   ![Data Science](https://img.shields.io/badge/-datascience-563D7C?style=flat-oval&logo=datascience)
-  ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+  <!-- ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) -->
   ![windows](https://img.shields.io/badge/-blue?style=flat-square&logo=windows)
-  ![vscode](https://img.shields.io/badge/-grey?style=flat-square&logo=visual-studio-code)
-  ![python](https://img.shields.io/badge/-yellow?style=flat-square&logo=python)
+  [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
+  ![Discord](https://img.shields.io/badge/-Discord-E01863?style=flat-square&logo=Discord&logoColor=white)
+  [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+  [![Django](https://img.shields.io/badge/-Flask-000800?style=flat-oval&logo=Django&logoColor=ffffff)](https://django.palletsprojects.com/)
+  [![Tensorflow](https://img.shields.io/badge/-Tensorflow-366CE5?style=flat-square&logo=Tensorflow&logoColor=ffffff)](https://tensorflow.org/)
+
+
+
+<!-- [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/) -->
+<!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
+
 <!--
 **ChiragB254/ChiragB254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
