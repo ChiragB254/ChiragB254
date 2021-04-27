@@ -27,7 +27,7 @@
 
 ### Skills
   
-  ![Python](https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/-python-E34F26?style=flat-oval&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
