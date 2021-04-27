@@ -1,5 +1,5 @@
 
-![Chirag Bansal](https://github.com/ChiragB254/ChiragB254/image/Chirag Bansal.JPG?raw=true)
+![Chirag Bansal](https://github.com/ChiragB254/ChiragB254/image/1.JPG?raw=true)
 
 ## Hi there 👋
 
