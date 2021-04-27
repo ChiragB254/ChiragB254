@@ -6,7 +6,7 @@
 
 
 [![Instagram Link](https://img.shields.io/badge/instagram.com/ChiragBansal%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/chirag_bansal254/)
-[![Twitter Link](https://img.shields.io/badge/twitter.com/chirag_bansal25404%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://twitter.com/ChiragB254)
+[![Twitter Link](https://img.shields.io/badge/twitter.com/Chirag04%20-%23E4405F.svg?&style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ChiragB254)
 <!--
 **ChiragB254/ChiragB254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
