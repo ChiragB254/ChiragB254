@@ -1,9 +1,11 @@
-## नमस्ते, I'm Chirag BAnsal  🧑👨‍💻
+<!-- ## नमस्ते, I'm Chirag BAnsal  👨‍💻 -->
 ![Chirag Bansal](https://github.com/ChiragB254/ChiragB254/blob/main/image/1.png?raw=true)
 
 ### Hi there 👋![My Awesome readme](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ## I am Chirag Bansal. Machine Learning and python developer. 
 
+
+[![Instagram Link](https://img.shields.io/badge/instagram.com/__chiragbansal04%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/chirag_bansal254/)
 <!--
 **ChiragB254/ChiragB254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
