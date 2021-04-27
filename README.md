@@ -5,9 +5,9 @@
 ## I am Chirag Bansal. Machine Learning and python developer. 
 
 
-[![Instagram Link](https://img.shields.io/badge/instagram.com/ChiragBansal%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/chirag_bansal254/)
-[![Twitter Link](https://img.shields.io/badge/twitter.com/Chirag04%20-%23E4405F.svg?&style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ChiragB254)
-[![Twitter Link](https://img.shields.io/badge/twitter.com/Chirag04%20-%23E4405F.svg?&style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chirag-bansal-04a48b16b/)
+[![Instagram Link](https://img.shields.io/badge/Instagram/ChiragBansal%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/chirag_bansal254/)
+[![Twitter Link](https://img.shields.io/badge/Twitter/Chirag04%20-%23E4405F.svg?&style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ChiragB254)
+[![Twitter Link](https://img.shields.io/badge/LinkedIn/Chirag04%20-%23E4405F.svg?&style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chirag-bansal-04a48b16b/)
 <!--
 **ChiragB254/ChiragB254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
