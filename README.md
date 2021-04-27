@@ -32,7 +32,7 @@
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
   ![Data Science](https://img.shields.io/badge/-Data%20Science-brightgreen)
   ![Machine Learning](https://img.shields.io/badge/-MachineLearning-blue?style=flat-oval&logo=machinelearning&logoColor=white)
-  ![Java Basic](https://img.shields.io/badge/-Java Basic-E34A86?style=flat-square&logo=java)
+  ![Java Basic](https://img.shields.io/badge/-Java_Basic-E34A86?style=flat-square&logo=java)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-oval&logo=github&logoColor=white)
