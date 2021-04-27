@@ -28,7 +28,7 @@
 ### Skills
   
   ![Python](https://img.shields.io/badge/-python-E34F26?style=flat-oval&logo=python&logoColor=white)
-  ![Machine Learning](https://img.shields.io/badge/-MachineLearning-red?style=flat-oval&logo=Machine Learning&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/-MachineLearning-red?style=flat-oval&logo=MachineLearning&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
