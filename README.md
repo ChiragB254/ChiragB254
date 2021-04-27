@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![Chirag Bansal](https://github.com/ChiragB254/ChiragB254/blob/master/imageChirag Bansal.JPG?raw=true)
+
+## Hi there 👋
 
 <!--
 **ChiragB254/ChiragB254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
