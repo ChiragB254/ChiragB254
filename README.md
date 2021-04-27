@@ -36,11 +36,10 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-oval&logo=github&logoColor=white)
-  [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)]
-  [![Google Cloud](https://img.shields.io/badge/Learning-GCloud-FF9990?style=flat-square&logo=google-cloud&logoColor=white)]
+  ![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
   ![Colab](https://img.shields.io/badge/-Colab-43853d?style=flat-oval&logo=colab&logoColor=white)
   ![Data Science](https://img.shields.io/badge/-datascience-563D7C?style=flat-oval&logo=datascience)
-  <!-- ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) -->
   ![windows](https://img.shields.io/badge/-blue?style=flat-square&logo=windows)
   [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
