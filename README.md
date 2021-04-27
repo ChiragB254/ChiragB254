@@ -57,17 +57,17 @@
 
   ## My certifications as a developer
 
-  #### Responsive web design certification from freecodecamp.org
-  ![Freecodecamp responsive web design certification](https://raw.githubusercontent.com/Aryankpoor/Aryankpoor/master/image/Capture.JPG)
+  #### Machine Learning from cousera.org
+  ![Machine Learning certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/3.png?raw=true)
   
-  #### Scientific Computing with Python from freecodecamp.org
-  ![freecodecamp python certification](https://github.com/Aryankpoor/Aryankpoor/blob/master/Capture.JPG?raw=true)
+  #### Introduction to the Internet of Things and Embedded Systems from coursera.org
+  ![freecodecamp python certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/4.png?raw=true)
   
-  #### Javascript Algorithms and Data Structures from freecodecamp.org
-  ![feecodecamp javascript certification](https://i.ibb.co/mq2WQHX/Capture.jpg)
+  #### Python For Everyone from coursera.org
+  ![Python For Everyone certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/2.jpeg?raw=true)
   
- My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) 
- <img src="https://img.icons8.com/color/48/000000/codepen.png">
+ <!-- My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) 
+ <img src="https://img.icons8.com/color/48/000000/codepen.png"> -->
 
  My portfolio page .  [View it here](https://chiragbansal.co/)
 
