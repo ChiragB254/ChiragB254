@@ -23,7 +23,21 @@
 - 📫 How to reach me: [click on me!](mailto:bansaltechnical24gmail.com)
 - ⚡ Fun fact: I want to learn everything!!!!
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragB254&bg_color=00000000&theme=synthwave)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragB254&bg_color=00000000&theme=synthwave)
+
+### Skills
+  
+  ![Python](https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+  ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+  ![windows](https://img.shields.io/badge/-blue?style=flat-square&logo=windows)
+  ![vscode](https://img.shields.io/badge/-grey?style=flat-square&logo=visual-studio-code)
+  ![python](https://img.shields.io/badge/-yellow?style=flat-square&logo=python)
 <!--
 **ChiragB254/ChiragB254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
