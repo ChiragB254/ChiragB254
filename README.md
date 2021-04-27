@@ -73,7 +73,7 @@
 
  THANKS FOR READING MY PERSONAL README. :slightly_smiling_face: Hope you liked it.
 
- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragB254&repo=Face_Detection-site&theme=radical)
+ ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragB254&repo=Face_Detection&theme=radical)
  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragB254&repo=Foiler-Diseases-in-Apple-Leaf&theme=material-palenight)
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
