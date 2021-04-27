@@ -1,7 +1,7 @@
 
 ![Chirag Bansal](https://github.com/ChiragB254/ChiragB254/blob/master/image/1.JPG?raw=true)
 
-## Hi there 👋
+### Hi there 👋![My Awesome readme](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 <!--
 **ChiragB254/ChiragB254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
