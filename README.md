@@ -28,12 +28,12 @@
 ### Skills
   
   ![Python](https://img.shields.io/badge/-python-E34F26?style=flat-oval&logo=python&logoColor=white)
-  ![Machine Learning](https://img.shields.io/badge/-MachineLearning-red?style=flat-oval&logo=Machine_Learning&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![Machine Learning](https://img.shields.io/badge/-MachineLearning-blue?style=flat-oval&logo=machinelearning&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-html5-1572B6?style=flat-oval&logo=html5)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-oval&logo=github&logoColor=white)
+  ![Colab](https://img.shields.io/badge/-Colab-43853d?style=flat-oval&logo=colab&logoColor=white)
+  ![Data Science](https://img.shields.io/badge/-datascience-563D7C?style=flat-oval&logo=datascience)
   ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
   ![windows](https://img.shields.io/badge/-blue?style=flat-square&logo=windows)
   ![vscode](https://img.shields.io/badge/-grey?style=flat-square&logo=visual-studio-code)
