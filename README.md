@@ -11,7 +11,19 @@
 
 
 
-[![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=ChiragB254&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)]
+![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=ChiragB254&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)
+
+
+- 🔭 I’m currently working on an Argumented Reality HandWritten Math Equations. 
+<!-- It is one of my repo. check it out. -->
+- 🌱 I’m currently learning BlockChain and Django frameworks with some other things
+- 👯 I’m looking to collaborate on a CamScanner App
+- 🤔 I’m looking for help with BlockChain
+- 💬 Ask me anything
+- 📫 How to reach me: [click on me!](mailto:bansaltechnical24gmail.com)
+- ⚡ Fun fact: I want to learn everything!!!!
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&bg_color=00000000&theme=synthwave)]
 <!--
 **ChiragB254/ChiragB254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
