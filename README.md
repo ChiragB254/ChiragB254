@@ -5,9 +5,9 @@
 ## I am Chirag Bansal. Machine Learning and python developer. 
 
 
-[![Instagram Link](https://img.shields.io/badge/Instagram/ChiragBansal%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/chirag_bansal254/)
-[![Twitter Link](https://img.shields.io/badge/Twitter/Chirag04%20-%23E4405F.svg?&style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ChiragB254)
-[![Twitter Link](https://img.shields.io/badge/LinkedIn/Chirag04%20-%23E4405F.svg?&style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chirag-bansal-04a48b16b/)
+[![Instagram Link](https://img.shields.io/badge/Instagram/Chirag_Bansal%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/chirag_bansal254/)
+[![Twitter Link](https://img.shields.io/badge/Twitter/Chirag%20-%23E4405F.svg?&style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ChiragB254)
+[![Twitter Link](https://img.shields.io/badge/LinkedIn/Chirag%20-%23E4405F.svg?&style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chirag-bansal-04a48b16b/)
 
 
 
@@ -39,14 +39,14 @@
   ![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
   ![Colab](https://img.shields.io/badge/-Colab-43853d?style=flat-oval&logo=colab&logoColor=white)
-  ![Data Science](https://img.shields.io/badge/-datascience-563D7C?style=flat-oval&logo=datascience)
+  ![Data Science](https://img.shields.io/badge/-Datascience-563D7C?style=flat-oval&logo=datascience)
   ![windows](https://img.shields.io/badge/-blue?style=flat-square&logo=windows)
   [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
   ![Discord](https://img.shields.io/badge/-Discord-E01863?style=flat-square&logo=Discord&logoColor=white)
   [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
-  [![Django](https://img.shields.io/badge/-Flask-000800?style=flat-oval&logo=Django&logoColor=ffffff)](https://django.palletsprojects.com/)
+  [![Django](https://img.shields.io/badge/-Django-000800?style=flat-oval&logo=Django&logoColor=ffffff)](https://django.palletsprojects.com/)
   [![Tensorflow](https://img.shields.io/badge/-Tensorflow-366CE5?style=flat-square&logo=Tensorflow&logoColor=ffffff)](https://tensorflow.org/)
 
 
@@ -81,18 +81,3 @@
 </a>
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
-
-<!--
-**ChiragB254/ChiragB254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
