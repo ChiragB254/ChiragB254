@@ -54,6 +54,34 @@
 ![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor&bg_color=00000000&theme=cobalt)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Aryankpoor&theme=onedark)
+
+  ## My certifications as a developer
+
+  #### Responsive web design certification from freecodecamp.org
+  ![Freecodecamp responsive web design certification](https://raw.githubusercontent.com/Aryankpoor/Aryankpoor/master/image/Capture.JPG)
+  
+  #### Scientific Computing with Python from freecodecamp.org
+  ![freecodecamp python certification](https://github.com/Aryankpoor/Aryankpoor/blob/master/Capture.JPG?raw=true)
+  
+  #### Javascript Algorithms and Data Structures from freecodecamp.org
+  ![feecodecamp javascript certification](https://i.ibb.co/mq2WQHX/Capture.jpg)
+  
+ My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) 
+ <img src="https://img.icons8.com/color/48/000000/codepen.png">
+
+ My portfolio page .  [View it here](https://chiragbansal.co/)
+
+ THANKS FOR READING MY PERSONAL README. :slightly_smiling_face: Hope you liked it.
+
+ ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragB254&repo=Spam--Base-site&theme=radical)
+ ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragB254&repo=Foiler--Disease&theme=material-palenight)
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryankpoor&theme=dark"/>
+</a>
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+
 <!--
 **ChiragB254/ChiragB254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
