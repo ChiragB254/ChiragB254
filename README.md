@@ -58,10 +58,10 @@
   ## My certifications as a developer
 
   #### Machine Learning from cousera.org
-  ![Machine Learning certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/3.png?raw=true)
+  ![Machine Learning certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/3.jpeg?raw=true)
   
   #### Introduction to the Internet of Things and Embedded Systems from coursera.org
-  ![freecodecamp python certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/4.png?raw=true)
+  ![freecodecamp python certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/4.jpeg?raw=true)
   
   #### Python For Everyone from coursera.org
   ![Python For Everyone certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/2.jpeg?raw=true)
