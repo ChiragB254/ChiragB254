@@ -23,7 +23,7 @@
 - 📫 How to reach me: [click on me!](mailto:bansaltechnical24gmail.com)
 - ⚡ Fun fact: I want to learn everything!!!!
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&bg_color=00000000&theme=synthwave)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragB254&bg_color=00000000&theme=synthwave)]
 <!--
 **ChiragB254/ChiragB254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
