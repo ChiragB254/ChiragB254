@@ -14,7 +14,7 @@
 ![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=ChiragB254&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)
 
 
-- 🔭 I’m currently working on an Argumented Reality HandWritten Math Equations. 
+- 🔭 I’m currently working on an Augmented Reality HandWritten Math Equations. 
 <!-- It is one of my repo. check it out. -->
 - 🌱 I’m currently learning BlockChain and Django frameworks with some other things
 - 👯 I’m looking to collaborate on a CamScanner App
@@ -69,7 +69,7 @@
  <!-- My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) 
  <img src="https://img.icons8.com/color/48/000000/codepen.png"> -->
 
- My portfolio page .  [View it here](https://chiragbansal.co/)
+ My portfolio page .  [View it here](http://chiragbansal.theputon.com/)
 
  THANKS FOR READING MY PERSONAL README. :slightly_smiling_face: Hope you liked it.
 
@@ -80,4 +80,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryankpoor&theme=dark"/>
 </a>
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+
