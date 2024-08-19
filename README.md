@@ -1,8 +1,11 @@
-# 💫 About Me:
-Hi there! 👋 I'm Chirag Bansal.<br> Recently selected in the top 1% for the prestigious KaggleX Fellowship Program; I’m a passionate Data Scientist diving deep into Artificial Intelligence and Machine Learning. My background includes leading the development of impactful tools, such as a chatbot and an automated system, during my time as a Software Application Support Engineer in a Government department.<br>Currently, I'm advancing my expertise through a Postgraduate Certificate in AI and ML, with a particular focus on Generative AI.<br>Let’s connect and create something amazing together! 🚀
+![](https://github.com/ChiragB254/ChiragB254/blob/main/image/github.gif)
 
+Recently selected in the **top 1%** for the prestigious **KaggleX Fellowship Program**, I’m a passionate **Data Scientist** diving deep into **Artificial Intelligence** and **Machine Learning**. My background includes leading the development of impactful tools, such as a **chatbot** and an **automated system**, during my time as a **Software Application Support Engineer** in a **Government department**.
 
-## 🌐 Let's Connect:
+Currently, I'm advancing my expertise through a **Postgraduate Certificate** in **AI and ML**, with a particular focus on **Generative AI**.
+
+Let’s connect and create something amazing together! 🚀
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230C4DA2.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/chiragb254) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragb254) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/data.scientist_chirag) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:chiragbansal254@gmail.com)
 
 <br/>
