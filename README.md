@@ -1,83 +1,24 @@
-<!-- ## नमस्ते, I'm Chirag BAnsal  👨‍💻 -->
-![Chirag Bansal](https://github.com/ChiragB254/ChiragB254/blob/main/image/1.png?raw=true)
-
-### Hi there 👋![My Awesome readme](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-## I am Chirag Bansal. Machine Learning and python developer. 
+# 💫 About Me:
+Hi there! 👋 I'm Chirag Bansal<br>Recently selected in the top 1% for the prestigious KaggleX Fellowship Program, I’m a passionate Data Scientist diving deep into Artificial Intelligence and Machine Learning. My background includes leading the development of impactful tools, such as a chatbot and an automated system, during my time as a Software Application Support Engineer in a Government department.<br>Currently, I'm advancing my expertise through a Postgraduate Certificate in AI and ML, with a particular focus on Generative AI.<br>Let’s connect and create something amazing together! 🚀
 
 
-[![Instagram Link](https://img.shields.io/badge/Instagram/Chirag_Bansal%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/chirag_bansal254/)
-[![Twitter Link](https://img.shields.io/badge/Twitter/Chirag%20-%23E4405F.svg?&style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ChiragB254)
-[![Twitter Link](https://img.shields.io/badge/LinkedIn/Chirag%20-%23E4405F.svg?&style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chirag-bansal-04a48b16b/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/data.scientist_chirag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragb254) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chiragb254) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chiragb254&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chiragb254&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragb254&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chiragb254&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=ChiragB254&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=chiragb254&icon=2&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on an Argumented Reality HandWritten Math Equations. 
-<!-- It is one of my repo. check it out. -->
-- 🌱 I’m currently learning BlockChain and Django frameworks with some other things
-- 👯 I’m looking to collaborate on a CamScanner App
-- 🤔 I’m looking for help with BlockChain
-- 💬 Ask me anything
-- 📫 How to reach me: [click on me!](mailto:bansaltechnical24gmail.com)
-- ⚡ Fun fact: I want to learn everything!!!!
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragB254&bg_color=00000000&theme=synthwave)
-
-### Skills
-  
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![C](https://img.shields.io/badge/-C-000?&logo=C)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-  ![Data Science](https://img.shields.io/badge/-Data%20Science-brightgreen)
-  ![Machine Learning](https://img.shields.io/badge/-MachineLearning-blue?style=flat-oval&logo=machinelearning&logoColor=white)
-  ![Java Basic](https://img.shields.io/badge/-Java_Basic-E34A86?style=flat-square&logo=java)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-oval&logo=github&logoColor=white)
-  ![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-  ![Colab](https://img.shields.io/badge/-Colab-43853d?style=flat-oval&logo=colab&logoColor=white)
-  ![Data Science](https://img.shields.io/badge/-Datascience-563D7C?style=flat-oval&logo=datascience)
-  ![windows](https://img.shields.io/badge/-blue?style=flat-square&logo=windows)
-  [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
-  ![Discord](https://img.shields.io/badge/-Discord-E01863?style=flat-square&logo=Discord&logoColor=white)
-  [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
-  [![Django](https://img.shields.io/badge/-Django-000800?style=flat-oval&logo=Django&logoColor=ffffff)](https://django.palletsprojects.com/)
-  [![Tensorflow](https://img.shields.io/badge/-Tensorflow-366CE5?style=flat-square&logo=Tensorflow&logoColor=ffffff)](https://tensorflow.org/)
-
-
-
-![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor&bg_color=00000000&theme=cobalt)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Aryankpoor&theme=onedark)
-
-  ## My certifications as a developer
-
-  #### Machine Learning from cousera.org
-  ![Machine Learning certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/3.jpeg?raw=true)
-  
-  #### Introduction to the Internet of Things and Embedded Systems from coursera.org
-  ![IOT certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/4.jpeg?raw=true)
-  
-  #### Python For Everyone from coursera.org
-  ![Python For Everyone certification](https://github.com/ChiragB254/ChiragB254/blob/main/image/2.jpeg?raw=true)
-  
- <!-- My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) 
- <img src="https://img.icons8.com/color/48/000000/codepen.png"> -->
-
- My portfolio page .  [View it here](https://chiragbansal.co/)
-
- THANKS FOR READING MY PERSONAL README. :slightly_smiling_face: Hope you liked it.
-
- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragB254&repo=Face_Detection&theme=radical)
- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragB254&repo=Foiler-Diseases-in-Apple-Leaf&theme=material-palenight)
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryankpoor&theme=dark"/>
-</a>
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
