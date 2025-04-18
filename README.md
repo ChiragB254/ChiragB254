@@ -6,7 +6,7 @@ Currently, I'm advancing my expertise through a **Postgraduate Certificate** in 
 
 Let’s connect and create something amazing together! 🚀
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-%230C4DA2.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/chiragb254) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragb254) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/data.scientist_chirag) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:chiragbansal254@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%230C4DA2.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/chiragb254) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragb254) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/data.scientist_chirag) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:chiragbansal254@gmail.com) 
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -59,5 +59,6 @@ Let’s connect and create something amazing together! 🚀
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=chiragb254&icon=2&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=chiragb254&color=gray&abbreviated=true&base=300)
 
 </div>
