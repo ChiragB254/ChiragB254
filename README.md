@@ -59,6 +59,6 @@ Let’s connect and create something amazing together! 🚀
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=chiragb254&icon=2&color=0)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=chiragb254&color=gray&abbreviated=true&base=300)
+![](https://komarev.com/ghpvc/?username=chiragb254&color=gray&abbreviated=true)
 
 </div>
